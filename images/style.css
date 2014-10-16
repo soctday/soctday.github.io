@@ -23,7 +23,7 @@ li{ list-style:none;}
 
 
 .synopsis{ height:260px; margin-top:43px;}
-	.design{float: left; width:770px; height:220px; padding:20px 15px; background:#E5E5E5;border-radius: 4px; color:#888888; font-size:16px; line-height:26px;}
+	.design{float: left; width:770px; height:220px; padding:20px 15px; background:#E5E5E5;border-radius: 4px; color:#888888; font-size:16px; line-height:36px;}
 	
 	.me{background-image:url(about_me_bg.jpg);border-radius: 4px;float: right;height: 260px;width: 360px;}
 		.about_me {float: left;padding-left: 30px;padding-top: 30px;width: 150px;}
